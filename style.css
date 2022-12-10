@@ -1,0 +1,28 @@
+.container{
+    width: 100vw;
+    margin: auto;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+
+.positiveValues{
+    color: greenyellow;
+}
+
+.negativeValues{
+    color: rgb(255, 47, 78);
+}
+
+table{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 500px;
+    
+}
+tr{
+    border-bottom: 1px solid white;
+    text-align: center;
+}
